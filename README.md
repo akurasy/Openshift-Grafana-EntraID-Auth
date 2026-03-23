@@ -18,7 +18,9 @@ https://login.microsoftonline.com/27610e39-e1af-42c6-b20f-80ca8c8579c6/oauth2/v2
 
 edit Grafana object and edit this block 
 
+```
 oc edit grafana grafana-a -n default
+```
 
 ```
 spec:
