@@ -4,7 +4,7 @@ Goto Microsoft Azure and create app registration
 
 create client secret. 
 
-goto Grafana  -- admin -- authentication and select entra ID 
+goto Grafana UI -- admin -- authentication and select entra ID 
 
 update the entra ID by using client secret for authentication 
 
